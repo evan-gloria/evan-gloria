@@ -3,12 +3,13 @@
 I'm a passionate **Data Professional** with 11+ years of experience across **Data Engineering**, **Analytics**, and now expanding into the world of **Artificial Intelligence** and **Machine Learning**.
 
 With a **Bachelor’s in Information Technology** and a **Master’s in Analytics**, I combine strong technical foundations with a problem-solving mindset to build practical AI/ML solutions.  
-I'm currently focused on **time series forecasting, fraud detection**, and **cloud-based AI architectures** using **Azure** and **AWS**.
+
+I'm currently focused on **analytics with transport nsw data, time series forecasting, fraud detection**, and **cloud-based AI architectures** using **Azure** and **AWS**.
 
 ---
 
 - 🧠 Recently certified as a **Microsoft Azure AI Engineer Associate (AI-102)**
-- 📊 Currently working on: [Store Sales - Time Series Forecasting (Kaggle)](#)
+- 📊 Currently working on: [Transport NSW Data (Data © Transport for NSW, licensed under CC BY 4.0), Store Sales - Time Series Forecasting (Kaggle)](#)
 - ✅ Completed: [Titanic Survival Prediction Project](#)
 - 🌱 Learning: TensorFlow, LangChain, Hugging Face, Azure OpenAI, and AWS SageMaker
 - 🚀 Future plans: Build AI-powered apps using Azure AI and Generative AI for real-world scenarios
