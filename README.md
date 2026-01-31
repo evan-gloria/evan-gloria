@@ -44,7 +44,11 @@ I specialize in **Platform Engineering** and **MLOps**—architecting serverless
 ---
 
 ## 📈 GitHub Stats
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-gloria&show_icons=true&hide_title=true&count_private=true&theme=default)
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=evan-gloria&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=evan-gloria&layout=compact&theme=radical&hide=jupyter%20notebook"/>
+</div>
 
 ---
 
