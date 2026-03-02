@@ -50,11 +50,5 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
 
 ---
 
-## 📈 GitHub Stats
-
-![Evan's GitHub stats](https://github-readme-stats.vercel.app/api?username=evan-gloria&show_icons=true&hide_title=true&count_private=true&theme=radical&include_all_commits=true)
-
----
-
 📫 **Let’s connect**:  
 Feel free to reach out for collaboration, multi-cloud architecture discussions, or a good AI/ML chat!
