@@ -1,10 +1,16 @@
 # Hi there 👋 I'm Evan!
 
-### ☁️ Senior Data Engineer | AWS Certified Solutions Architect
+### ☁️ Senior Data & Cloud Engineer | Multi-Cloud Architect
 
-I'm a **Senior Data Professional** with 11+ years of experience bridging the gap between **Business Strategy** (Retail/Banking) and **Cloud Engineering**.
+I'm a **Senior Data Professional** with 11+ years of experience bridging the gap between **Complex Architecture** and **Business Value**. I specialize in modernizing legacy data ecosystems (Teradata/Oracle) into scalable, secure, cloud-native platforms on **GCP, AWS, and Azure**.
 
-I specialize in **Platform Engineering** and **MLOps**—architecting serverless data pipelines that are scalable, secure, and developer-friendly. My passion lies in modernizing legacy data warehouses (Teradata/Oracle) into cloud-native ecosystems on **AWS** and **Azure**.
+Currently focused on **Serverless Data Engineering** and **AI/MLOps**—architecting pipelines that turn high-velocity telemetry into actionable intelligence.
+
+## 🏗️ Featured Project
+### [🚄 Real-Time Sydney Transit Analytics (GCP)](https://github.com/evan-gloria/nsw-transit-gcp-serverless)
+An event-driven, serverless Medallion architecture on **Google Cloud**. 
+* **Stack:** Cloud Run, BigQuery, GCS, Secret Manager, and Looker Studio.
+* **Impact:** Processes real-time GTFS telemetry from Transport for NSW with zero idle compute costs.
 
 ---
 
@@ -14,32 +20,33 @@ I specialize in **Platform Engineering** and **MLOps**—architecting serverless
   - 🏆 **AWS Certified AI Practitioner**
   - 🏆 **Google Cloud Certified: Generative AI Leader**
 
-- 🛠️ **Building:** Serverless ETL pipelines using **AWS Fargate** & **MWAA (Airflow)**
-- 🔭 **Focus:** Internal Developer Platforms (IDP), DevEx, and Large Scale Data Processing (**PySpark**)
-- 🚀 **Future plans:** Architecting multi-cloud MLOps frameworks for high-volume retail environments
-- 💬 **Ask me about:** Cloud Architecture, Serverless Containers, Python Optimization, and Retail Analytics
+- 🛠️ **Building:** Serverless Medallion architectures on **GCP** and **AWS**
+- 🔭 **Focus:** Customer Engineering, MLOps, Apache Iceberg, and PySpark optimization
+- 🚀 **Future plans:** Scaling real-time analytics with **BigQuery BigLake** and **Vertex AI**
+- 💬 **Ask me about:** Multi-Cloud Strategy, Data Lakehouses, and Retail/Banking Data Modernization
 
 ---
 
 ## 🛠️ Technologies & Tools
 
-**Core Engineering**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Bash](https://img.shields.io/badge/Shell_Script-4EAA25?style=flat&logo=gnu-bash&logoColor=white)
-
-**Cloud & Infrastructure**
+**Cloud & Data Warehousing**
+![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=google-cloud&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-669900?style=flat&logo=google-bigquery&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+**Engineering & Orchestration**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat&logo=terraform&logoColor=white)
-
-**MLOps & AI**
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
+
+**Analytics & AI**
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC72E?style=flat&logo=huggingface&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 ---
 
@@ -50,4 +57,4 @@ I specialize in **Platform Engineering** and **MLOps**—architecting serverless
 ---
 
 📫 **Let’s connect**:  
-Feel free to reach out for collaboration, mentoring, or a good AI/ML chat!
+Feel free to reach out for collaboration, multi-cloud architecture discussions, or a good AI/ML chat!
