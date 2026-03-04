@@ -17,7 +17,7 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
 - 🧠 **Certifications:**
   - 🏆 **AWS Certified Solutions Architect – Associate (SAA-C03)**
   - 🏆 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
-  - 🏆 **AWS Certified AI Practitioner**
+  - 🏆 **AWS Certified AI Practitioner (AIF-C01)**
   - 🏆 **Google Cloud Certified: Generative AI Leader**
 
 - 🛠️ **Building:** Serverless Medallion architectures on **GCP** and **AWS**
