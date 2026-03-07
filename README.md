@@ -1,16 +1,21 @@
 # Hi there 👋 I'm Evan!
 
-### ☁️ Senior Data & Cloud Engineer | Multi-Cloud Architect
+### ☁️ Senior Data & AI Engineer | Multi-Cloud Architect
 
 I'm a **Senior Data Professional** with 11+ years of experience bridging the gap between **Complex Architecture** and **Business Value**. I specialize in modernizing legacy data ecosystems (Teradata/Oracle) into scalable, secure, cloud-native platforms on **GCP, AWS, and Azure**.
 
-Currently focused on **Serverless Data Engineering** and **AI/MLOps**—architecting pipelines that turn high-velocity telemetry into actionable intelligence.
+Currently focused on **Serverless Data Engineering** and **Generative AI**—architecting pipelines that turn high-velocity telemetry and unstructured documents into actionable, grounded intelligence.
 
 ## 🏗️ Featured Project
+### [⛏️ WAMEX Serverless RAG Assistant (AWS)](https://github.com/evan-gloria/wamex-rag-assistant)
+A scale-to-zero, serverless RAG pipeline using Amazon Bedrock, AWS Lambda, and a stateless S3 FAISS index to extract insights from unstructured WAMEX geological reports.
+* **Stack:** AWS Lambda, Amazon Bedrock (Claude 3 Haiku & Titan), FAISS, Streamlit, Amazon S3.
+* **Impact:** Delivers grounded information extraction with a $0.00 scale-to-zero architecture by utilizing S3 as a stateless vector store.
+
 ### [🚄 Real-Time Sydney Transit Analytics (GCP)](https://github.com/evan-gloria/nsw-transit-gcp-serverless)
 An event-driven, serverless Medallion architecture on **Google Cloud**. 
-* **Stack:** Cloud Run, BigQuery, GCS, Secret Manager, and Looker Studio.
-* **Impact:** Processes real-time GTFS telemetry from Transport for NSW with zero idle compute costs.
+* **Stack:** Cloud Run, BigQuery, GCS, PySpark, Apache Iceberg, Looker Studio.
+* **Impact:** Processes real-time GTFS telemetry from Transport for NSW into a modern lakehouse format with zero idle compute costs.
 
 ---
 
@@ -20,10 +25,10 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
   - 🏆 **AWS Certified AI Practitioner (AIF-C01)**
   - 🏆 **Google Cloud Certified: Generative AI Leader**
 
-- 🛠️ **Building:** Serverless Medallion architectures on **GCP** and **AWS**
-- 🔭 **Focus:** Customer Engineering, MLOps, Apache Iceberg, and PySpark optimization
-- 🚀 **Future plans:** Scaling real-time analytics with **BigQuery BigLake** and **Vertex AI**
-- 💬 **Ask me about:** Multi-Cloud Strategy, Data Lakehouses, and Retail/Banking Data Modernization
+- 🛠️ **Building:** Serverless Medallion architectures and scalable RAG pipelines on **GCP** and **AWS**
+- 🔭 **Focus:** Customer Engineering, Enterprise GenAI, Apache Iceberg, and Cloud FinOps
+- 🚀 **Future plans:** Scaling real-time analytics with **BigQuery BigLake** and exploring multi-modal **Vertex AI** agents
+- 💬 **Ask me about:** Multi-Cloud Strategy, Data Lakehouses, Vector Databases, and Enterprise Data Modernization
 
 ---
 
@@ -36,6 +41,8 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
 ![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
 
 **Engineering & Orchestration**
+![AWS Lambda](https://img.shields.io/badge/AWS%20Lambda-FF9900?style=flat&logo=awslambda&logoColor=white)
+![Amazon API Gateway](https://img.shields.io/badge/API%20Gateway-FF4F8B?style=flat&logo=amazonapigateway&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
@@ -43,10 +50,12 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
 ![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
 
 **Analytics & AI**
-![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
+![Amazon Bedrock](https://img.shields.io/badge/Amazon%20Bedrock-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Anthropic](https://img.shields.io/badge/Anthropic-000000?style=flat&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FCC72E?style=flat&logo=huggingface&logoColor=black)
+![Looker](https://img.shields.io/badge/Looker-4285F4?style=flat&logo=looker&logoColor=white)
 
 ---
 
