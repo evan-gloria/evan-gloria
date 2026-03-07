@@ -28,7 +28,6 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
 - 🛠️ **Building:** Serverless Medallion architectures and scalable RAG pipelines on **GCP** and **AWS**
 - 🔭 **Focus:** Customer Engineering, Enterprise GenAI, Apache Iceberg, and Cloud FinOps
 - 🚀 **Future plans:** Scaling real-time analytics with **BigQuery BigLake** and exploring multi-modal **Vertex AI** agents
-- 💬 **Ask me about:** Multi-Cloud Strategy, Data Lakehouses, Vector Databases, and Enterprise Data Modernization
 
 ---
 
