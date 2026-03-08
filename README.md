@@ -8,8 +8,8 @@ Currently focused on **Serverless Data Engineering** and **Generative AI**—arc
 
 ## 🏗️ Featured Project
 ### [⛏️ WAMEX Serverless RAG Assistant (AWS)](https://github.com/evan-gloria/wamex-rag-assistant)
-A scale-to-zero, serverless RAG pipeline using Amazon Bedrock, AWS Lambda, and a stateless S3 FAISS index to extract insights from unstructured WAMEX geological reports.
-* **Stack:** AWS Lambda, Amazon Bedrock (Claude 3 Haiku & Titan), FAISS, Streamlit, Amazon S3.
+An event-driven, serverless RAG pipeline deployed via AWS SAM, utilizing Amazon Bedrock, AWS Lambda, and a stateless S3 FAISS index to extract insights from unstructured geological reports. 
+* **Stack:** Amazon SQS, AWS Lambda, Amazon Bedrock (Claude 3 Haiku & Titan), FAISS, Streamlit, Amazon S3, AWS SAM.
 * **Impact:** Delivers grounded information extraction with a scale-to-zero architecture, eliminating idle compute costs by utilizing S3 as a stateless vector store.
 
 ### [🚄 Real-Time Sydney Transit Analytics (GCP)](https://github.com/evan-gloria/nsw-transit-gcp-serverless)
