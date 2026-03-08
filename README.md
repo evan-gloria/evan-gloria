@@ -1,10 +1,11 @@
-# Hi there 👋 I'm Evan!
+# ⚡ Evan G. | ☁️ Principal Data Engineer & AI Solutions Architect
 
-### ☁️ Senior Data & AI Engineer | Multi-Cloud Architect
+**Building secure, enterprise-scale data platforms and FinOps-optimized GenAI architectures.**
 
-I'm a **Senior Data Professional** with 11+ years of experience bridging the gap between **Complex Architecture** and **Business Value**. I specialize in modernizing legacy data ecosystems (Teradata/Oracle) into scalable, secure, cloud-native platforms on **GCP, AWS, and Azure**.
+With 11+ years of experience reaching the Principal level in both Engineering and Analytics, I specialize in modernizing legacy ecosystems (Teradata, Oracle, Hadoop) into scalable, cloud-native platforms across **AWS, Azure, and GCP**. 
 
-Currently focused on **Serverless Data Engineering** and **Generative AI**—architecting pipelines that turn high-velocity telemetry and unstructured documents into actionable, grounded intelligence.
+Currently, I am architecting **Serverless Data Pipelines** and **Applied Generative AI** systems—turning massive enterprise datasets into actionable, grounded intelligence using open table formats (Apache Iceberg) and production-grade LLMs (Claude 3, Titan). My core focus remains bridging the gap between complex architectural design and tangible business value.
+
 
 ## 🏗️ Featured Project
 ### [⛏️ WAMEX Serverless RAG Assistant (AWS)](https://github.com/evan-gloria/wamex-rag-assistant)
