@@ -1,10 +1,10 @@
-# ⚡ Evan G. | ☁️ Principal Data Professional & AI Solutions Architect
+# ☁️ Evan G. | Principal Data Professional & AI Solutions Architect
 
-**Building secure, enterprise-scale data platforms and FinOps-optimized GenAI architectures.**
+**Building secure, enterprise-scale data platforms and FinOps-optimized AI architectures.**
 
 Hi, my name is Evan. 👋
 
-With 11+ years of experience reaching the Principal level in both Engineering and Analytics, I specialize in modernizing legacy ecosystems (Teradata, Oracle, Hadoop) into scalable, cloud-native platforms across **AWS, Azure, and GCP**. 
+With 11+ years of experience across Senior and Principal level roles in both Data Engineering and Data Analytics, I specialize in modernizing legacy ecosystems (Teradata, Oracle, Hadoop) into scalable, cloud-native platforms on **AWS, Azure, and GCP**. 
 
 Currently, I am architecting **Serverless Data Pipelines** and **Applied Generative AI** systems—turning massive enterprise datasets into actionable, grounded intelligence using open table formats (Apache Iceberg) and production-grade LLMs (Claude 3, Titan). My core focus remains bridging the gap between complex architectural design and tangible business value.
 
