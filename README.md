@@ -10,6 +10,17 @@ Currently, I am architecting **Serverless Data Pipelines** and **Applied Generat
 
 
 ## 🏗️ Featured Project
+
+### [🧠 Enterprise AI Marketing Hub (GCP)](https://github.com/evan-gloria/customermind-ai-microservices)
+An event-driven, LLM-powered microservices architecture for deterministic marketing orchestration and predictive customer intelligence on Google Cloud.
+* **Stack:** FastAPI, Vertex AI (Gemini Flash), BigQuery ML (K-Means), Streamlit, Cloud Run.
+* **Impact:** Decouples AI reasoning from data extraction using an Orchestrator pattern to eliminate LLM hallucinations, enabling zero-trust campaign generation and real-time audience viability forecasting.
+
+### [📈 Real-Time Crypto Market Data Streaming (AWS)](https://github.com/evan-gloria/crypto-market-data-pipeline)
+A serverless data engineering pipeline for streaming high-velocity cryptocurrency market data into a modern transactional data lakehouse.
+* **Stack:** Amazon Kinesis Data Firehose, Apache Iceberg, AWS Glue, Amazon S3, Amazon Athena.
+* **Impact:** Implements a scalable, low-latency streaming architecture capable of handling high-throughput financial data with zero idle compute costs and ACID transaction compliance.
+
 ### [⛏️ WAMEX Serverless RAG Assistant (AWS)](https://github.com/evan-gloria/wamex-rag-assistant)
 An event-driven, serverless RAG pipeline deployed via AWS SAM, utilizing Amazon Bedrock, AWS Lambda, and a stateless S3 FAISS index to extract insights from unstructured geological reports. 
 * **Stack:** Amazon SQS, AWS Lambda, Amazon Bedrock (Claude 3 Haiku & Titan), FAISS, Streamlit, Amazon S3, AWS SAM.
