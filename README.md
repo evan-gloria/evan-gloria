@@ -11,7 +11,7 @@ Currently, I am architecting **Serverless Data Pipelines** and **Applied Generat
 
 ## 🏗️ Featured Project
 
-### [🧠 Enterprise AI Marketing Hub (GCP)](https://github.com/evan-gloria/customermind-ai-microservices)
+### [🧠 Customermind AI - AI Microservices Marketing Hub (GCP)](https://github.com/evan-gloria/customermind-ai-microservices)
 An event-driven, LLM-powered microservices architecture for deterministic marketing orchestration and predictive customer intelligence on Google Cloud.
 * **Stack:** FastAPI, Vertex AI (Gemini Flash), BigQuery ML (K-Means), Streamlit, Cloud Run.
 * **Impact:** Decouples AI reasoning from data extraction using an Orchestrator pattern to eliminate LLM hallucinations, enabling zero-trust campaign generation and real-time audience viability forecasting.
