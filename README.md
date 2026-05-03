@@ -37,7 +37,8 @@ An event-driven, serverless Medallion architecture on **Google Cloud**.
   - 🏆 **AWS Certified Solutions Architect – Associate (SAA-C03)**
   - 🏆 **Microsoft Certified: Azure AI Engineer Associate (AI-102)**
   - 🏆 **AWS Certified AI Practitioner (AIF-C01)**
-  - 🏆 **Google Cloud Certified: Generative AI Leader**
+  - 🏆 **Google Cloud Certified: Generative AI Leader (PR000309)**
+  - 🏆 **SnowPro Associate: Platform Certification (SOL-C01)**
 
 - 🛠️ **Building:** Serverless Medallion architectures and scalable RAG pipelines on **GCP** and **AWS**
 - 🔭 **Focus:** Customer Engineering, Enterprise GenAI, Apache Iceberg, and Cloud FinOps
